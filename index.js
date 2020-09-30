@@ -1,3 +1,6 @@
+
+alert('Hello world');
+
 //regular fun
 function sum(x,y){    
     var add = x+y;

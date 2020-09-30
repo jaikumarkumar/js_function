@@ -1,7 +1,7 @@
 
 alert('Hello world');
 
-alert('Welcome');
+alert('Welcome Home');
 
 //regular fun
 function sum(x,y){    
